@@ -2,4 +2,5 @@ title: outdoor-robotics
 description: outdoor-robotics
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
+logo:
