@@ -1,2 +1,5 @@
-# outdoor-robotics.github.io
-Workshop Homepage
+This workshop will discuss core challenges and new solutions in perception and learning (P\&L) for autonomous robots operating over long terms in the wild, complex and unstructured environments.
+With robotics applications in the wild broadening from environmental monitoring and agriculture to autonomous driving and disaster relief, the requirement for \textbf{long-term robust, adaptive, and intelligent} systems becomes essential.
+This workshop will bring together researchers and practitioners to share new technologies in sensor processing, scene understanding, mapping, localization, and machine learning to address the unique demands of long-term operations in the wild, including varying terrain, adverse weather, dynamic lighting conditions, and seasonal changes.
+Our goal is to foster collaboration and move toward new frontiers in robust multimodal perception, self-supervised learning, online / continual / lifelong learning, simulation-to-reality transfer, and explainable AI to enable safe, reliable and long-term autonomous robots in the wild.
+This workshop will feature presentations, papers, and interactive discussion by leading experts, highlighting recent developments and future research directions for enhanced long-term performance of robotic systems in the wild.
