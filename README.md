@@ -87,4 +87,4 @@ If you have any questions, please contact us at [lowi@gmail.com](mailto:lowi@gma
 
 ---
 
-<a href="https://www.ensta.fr/"><img src="images/ensta_logo.jpg" height="38"></a>&nbsp;&nbsp;
+<a href="https://www.ensta.fr/"><img src="images/logo_ensta.png" height="38"></a>&nbsp;&nbsp;
