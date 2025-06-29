@@ -88,9 +88,9 @@ If you have any questions, please contact us at [lowi@gmail.com](mailto:lowi@gma
 ---
 
 <a href="https://www.ensta.fr/"><img src="images/logo_ensta.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.ensta.fr/"><img src="images/logo_hiparis.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.ensta.fr/"><img src="images/logo_wuerzburg.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.ensta.fr/"><img src="images/logo_nwpu.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.ensta.fr/"><img src="images/logo_cvut.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.ensta.fr/"><img src="images/logo_tomslab.png" height="38"></a>
+<a href="https://www.hi-paris.fr/"><img src="images/logo_hiparis.png" height="38"></a>&nbsp;&nbsp;
+<a href="https://www.uni-wuerzburg.de/"><img src="images/logo_wuerzburg.png" height="38"></a>&nbsp;&nbsp;
+<a href="https://en.nwpu.edu.cn/"><img src="images/logo_nwpu.png" height="38"></a>&nbsp;&nbsp;
+<a href="https://www.cvut.cz/en"><img src="images/logo_cvut.png" height="38"></a>&nbsp;&nbsp;
+<a href="https://chronorobotics.fel.cvut.cz/"><img src="images/logo_tomslab.png" height="38"></a>
 
