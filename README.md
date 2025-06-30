@@ -72,14 +72,33 @@ The best submissions will be invited to submit a full-length paper in a Special 
 
 ## Organizers
 
-* A
-* B
-* C
-* D
-* E
-* F
-* G
-* H
+![Zhi Yan](/images/Zhi_Yan.jpg)\
+[Zhi Yan](https://yzrobot.github.io/)\
+ENSTA - Institut Polytechnique de Paris
+
+![François Goulette](/images/François_Goulette.jpg)\
+[François Goulette](https://www.ensta-paris.fr/fr/francois-goulette)\
+ENSTA - Institut Polytechnique de Paris
+
+![Alexandre Chapoutot](/images/Alexandre_Chapoutot.jpg)\
+[Alexandre Chapoutot](https://www.ensta-paris.fr/fr/alexandre-chapoutot)\
+ENSTA - Institut Polytechnique de Paris
+
+![David Filliat](/images/David_Filliat.jpg)\
+[David Filliat](https://perso.ensta-paris.fr/~filliat/en/)\
+AMIAD - Agence Ministérielle pour l'IA de Défense
+
+![Andreas Nüchter](/images/Andreas_Nuchter.jpg)\
+[Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/)\
+University of Würzburg
+
+![Tao Yang](/images/Tao_Yang.jpg)\
+[Tao Yang](https://teacher.nwpu.edu.cn/yangtao2020.html)\
+Northwestern Polytechnical University
+
+![Tomas Krajnik](/images/Tomas_Krajnik.jpg)\
+[Tomas Krajnik](https://chronorobotics.fel.cvut.cz/)\
+Czech Technical University in Prague
 
 ## Contact
 
@@ -88,9 +107,9 @@ If you have any questions, please contact us at [lowi@gmail.com](mailto:lowi@gma
 ---
 
 <a href="https://www.ensta.fr/"><img src="images/logo_ensta.png" height="38"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/amiad-minarm/"><img src="images/logo_amiad.jpg" height="38"></a>&nbsp;&nbsp;
 <a href="https://www.hi-paris.fr/"><img src="images/logo_hiparis.png" height="38"></a>&nbsp;&nbsp;
 <a href="https://www.uni-wuerzburg.de/"><img src="images/logo_wuerzburg.png" height="38"></a>&nbsp;&nbsp;
 <a href="https://en.nwpu.edu.cn/"><img src="images/logo_nwpu.png" height="38"></a>&nbsp;&nbsp;
 <a href="https://www.cvut.cz/en"><img src="images/logo_cvut.png" height="38"></a>&nbsp;&nbsp;
 <a href="https://chronorobotics.fel.cvut.cz/"><img src="images/logo_tomslab.png" height="38"></a>
-
