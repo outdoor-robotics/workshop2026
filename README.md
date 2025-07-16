@@ -38,7 +38,7 @@ The workshop will cover a range of topics, including but not limited to:
 * Paper notification of acceptance:  April 30, 2026
 * Workshop date: May ??, 2026
 
-The best submissions will be invited to submit a full-length paper in a Special Issue of the [Autonomous Robots](https://link.springer.com/journal/10514).
+The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
 
 ## Schedule
 
@@ -74,31 +74,39 @@ The best submissions will be invited to submit a full-length paper in a Special 
 
 ![Zhi Yan](/images/Zhi_Yan.jpg)\
 [Zhi Yan](https://yzrobot.github.io/)\
-ENSTA - Institut Polytechnique de Paris
+ENSTA - Institut Polytechnique de Paris, France
 
 ![François Goulette](/images/François_Goulette.jpg)\
 [François Goulette](https://www.ensta-paris.fr/fr/francois-goulette)\
-ENSTA - Institut Polytechnique de Paris
+ENSTA - Institut Polytechnique de Paris, France
 
 ![Alexandre Chapoutot](/images/Alexandre_Chapoutot.jpg)\
 [Alexandre Chapoutot](https://www.ensta-paris.fr/fr/alexandre-chapoutot)\
-ENSTA - Institut Polytechnique de Paris
+ENSTA - Institut Polytechnique de Paris, France
 
 ![David Filliat](/images/David_Filliat.jpg)\
 [David Filliat](https://perso.ensta-paris.fr/~filliat/en/)\
-AMIAD - Agence Ministérielle pour l'IA de Défense
+AMIAD, France
 
 ![Andreas Nüchter](/images/Andreas_Nuchter.jpg)\
 [Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/)\
-University of Würzburg
+University of Würzburg, Germany
 
 ![Tao Yang](/images/Tao_Yang.jpg)\
 [Tao Yang](https://teacher.nwpu.edu.cn/yangtao2020.html)\
-Northwestern Polytechnical University
+Northwestern Polytechnical University, China
+
+![Martyna Poreba](/images/Martyna_Poreba.jpg)\
+[Martyna Poreba](https://fr.linkedin.com/in/martynaporeba)\
+CEA, France
+
+![Fatemeh Rekabi Bana](/images/Fatemeh_Rekabi_Bana.jpg)\
+[Fatemeh Rekabi Bana](https://www.durham.ac.uk/staff/fatemeh-rekabi-bana/)\
+Durham University, UK
 
 ![Tomas Krajnik](/images/Tomas_Krajnik.jpg)\
 [Tomas Krajnik](https://chronorobotics.fel.cvut.cz/)\
-Czech Technical University in Prague
+Czech Technical University in Prague, Czech Republic
 
 ## Contact
 
