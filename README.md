@@ -12,17 +12,17 @@ Somewhere in Vienna.
 
 The workshop will cover a range of topics, including but not limited to:
 * Long-term autonomy, persistent mapping, and online/continual/lifelong learning in ever-changing environments.
-* Robust perception under adverse and dynamic conditions in the wild.
-* Sensor fusion for robust, long-term state estimation and scene understanding.
-* Self-supervised/unsupervised/weakly-supervised learning during long-term deployments.
-* Terrain classification and traversability analysis for LoWi.
-* Sim-to-real transfer and domain adaptation for LoWi.
-* Foundation models and their application for LoWi.
-* Safety, long-term reliability, uncertainty quantification, and explainability for LoWi.
-* Novel sensors, long-term or multi-season datasets, and benchmarks for LOWi.
-* Reinforcement learning for navigation and interaction in dynamic, unpredictable scenes.
-* Data generation, augmentation, and active learning for challenging and imbalanced data from the wild.
-* Applications with a clear focus on their long-term perception, learning and navigation challenges.
+* Robust perception in harsh and dynamic conditions in the wild.
+* Sensor fusion for robust long-term state estimation and scene understanding.
+* Self-supervised/unsupervised/weakly-supervised learning in LoWi.
+* Terrain classification and traversability analysis in LoWi.
+* Sim-to-real transfer and domain adaptation in LoWi.
+* Foundational models and their applications in LoWi.
+* Safety, long-term reliability, uncertainty quantification, and interpretability in LoWi.
+* Novel sensors, long-term or multi-season datasets, and benchmarks in LoWi.
+* Reinforcement learning for navigation and interaction in dynamic, unpredictable scenarios.
+* Data generation, augmentation, and active learning for the wild.
+* Applications with an clear focus on long-term perception, learning, and navigation challenges.
 
 ## Submission guidelines
 
