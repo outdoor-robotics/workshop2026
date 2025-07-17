@@ -110,7 +110,7 @@ Northwestern Polytechnical University, China
 
 ![Martyna Poreba](/images/Martyna_Poreba.jpg)\
 [Martyna Poreba](https://fr.linkedin.com/in/martynaporeba)\
-CEA, France
+Université Paris-Saclay, CEA, List, France
 
 ![Fatemeh Rekabi Bana](/images/Fatemeh_Rekabi_Bana.jpg)\
 [Fatemeh Rekabi Bana](https://www.durham.ac.uk/staff/fatemeh-rekabi-bana/)\
