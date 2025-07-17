@@ -62,9 +62,21 @@ The best submissions will be invited to submit a full-length paper in a Special 
 
 ## Speakers
 
-* A
-* B
-* C
+Title: TBD\
+![Teresa Vidal Calleja](/images/Teresa_Vidal_Calleja.jpg)\
+[Teresa Vidal Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja)\
+University of Technology Sydney, Australia
+
+Title: TBD\
+![Kazunori Ohno](/images/Kazunori_Ohno.jpg)\
+[Kazunori Ohno](https://www.r-info.tohoku.ac.jp/en/1dbca76142c072cb4a4403b1c317eb26.html)\
+Tohoku University, Japan
+
+Title: TBD\
+![Xieyuanli Chen](/images/Xieyuanli_Chen.jpg)\
+[Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
+National University of Defense Technology, China
+
 * D
 * E
 * F
