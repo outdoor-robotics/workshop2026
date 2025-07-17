@@ -11,18 +11,18 @@ Somewhere in Vienna.
 ## Call for papers
 
 The workshop will cover a range of topics, including but not limited to:
-* Long-term autonomy, persistent mapping, and online/continual/lifelong learning to handle novelty and concept drift in ever-changing environments.
-* Robust perception (e.g., segmentation, detection, VSLAM) under adverse and dynamic conditions in the wild (e.g., rain, fog, day/night transitions, seasonal changes).
-* Sensor fusion (e.g., lidar-camera, radar-camera, IMU) for robust, long-term state estimation and comprehensive scene understanding.
-* Self-supervised, unsupervised, and weakly-supervised learning from large-scale, unlabeled data gathered during long-term deployments.
-* Machine learning for terrain classification and traversability analysis on evolving or partially-observed terrains in the wild.
-* Sim-to-real transfer and domain adaptation for robust performance across diverse and changing conditions in the wild.
-* Foundation models and their application to perception and learning for robotics in the wild.
-* Safety, long-term reliability, uncertainty quantification, and explainability of P\&L systems operating in the wild.
-* Novel sensors, long-term or multi-season datasets, and benchmarks for evaluating perception and learning in the wild.
+* Long-term autonomy, persistent mapping, and online/continual/lifelong learning in ever-changing environments.
+* Robust perception under adverse and dynamic conditions in the wild.
+* Sensor fusion for robust, long-term state estimation and scene understanding.
+* Self-supervised/unsupervised/weakly-supervised learning during long-term deployments.
+* Terrain classification and traversability analysis for LoWi.
+* Sim-to-real transfer and domain adaptation for LoWi.
+* Foundation models and their application for LoWi.
+* Safety, long-term reliability, uncertainty quantification, and explainability for LoWi.
+* Novel sensors, long-term or multi-season datasets, and benchmarks for LOWi.
 * Reinforcement learning for navigation and interaction in dynamic, unpredictable scenes.
 * Data generation, augmentation, and active learning for challenging and imbalanced data from the wild.
-* Applications (e.g., autonomous driving, agriculture, logistics, environmental monitoring) with a clear focus on their long-term perception and learning challenges.
+* Applications with a clear focus on their long-term perception, learning and navigation challenges.
 
 ## Submission guidelines
 
@@ -115,6 +115,10 @@ CEA, France
 ![Fatemeh Rekabi Bana](/images/Fatemeh_Rekabi_Bana.jpg)\
 [Fatemeh Rekabi Bana](https://www.durham.ac.uk/staff/fatemeh-rekabi-bana/)\
 Durham University, UK
+
+![Jindriska Deckerova](/images/Jindriska_Deckerova.jpg)\
+[Jindriska Deckerova](https://deckejin.github.io/)\
+Czech Technical University in Prague, Czech Republic
 
 ![Tomas Krajnik](/images/Tomas_Krajnik.jpg)\
 [Tomas Krajnik](https://chronorobotics.fel.cvut.cz/)\
