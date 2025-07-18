@@ -77,7 +77,11 @@ Tohoku University, Japan
 [Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
 National University of Defense Technology, China
 
-* D
+**Title: TBD**\
+![Jaime Pulido Fentanes](/images/Jaime_Pulido_Fentanes.jpg)\
+[Jaime Pulido Fentanes](https://scholar.google.es/citations?user=rTntw-wAAAAJ)\
+Saga Robotics, Norway
+
 * E
 * F
 * G
