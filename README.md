@@ -82,8 +82,16 @@ National University of Defense Technology, China
 [Jaime Pulido Fentanes](https://scholar.google.es/citations?user=rTntw-wAAAAJ)\
 Saga Robotics, Norway
 
-* E
-* F
+**Title: TBD**\
+![Timothy D Barfoot](/images/Timothy_D_Barfoot.jpg)\
+[Timothy D Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
+University of Toronto, Canada
+
+**Title: TBD**\
+![Marija Popović](/images/Marija_Popovic.jpg)\
+[Marija Popović](https://research.tudelft.nl/en/persons/m-popovic)\
+Delft University of Technology, Netherlands
+
 * G
 
 ## Organizers
