@@ -26,11 +26,14 @@ The workshop will cover a range of topics, including but not limited to:
 
 ## Submission guidelines
 
-* A
-* B
-* C
-* D
-* E
+* We invite submissions of full papers of 4 to 8 pages, including references, formatted using the standard [IEEE RAS conference template](https://ras.papercept.net/conferences/support/tex.php).
+* Submissions must present new, high-quality research on the workshop's themes.
+* Submitted papers must not be under review or have been published in another archival venue.
+* A double-blind peer-review process will be implemented. Papers will be evaluated based on their novelty, technical soundness, clarity, and relevance to the workshop.
+* A selected number of high-quality papers will be invited to submit an extended version of their work to a special issue in a major journal.
+* All accepted papers will be invited for either a spotlight oral or a poster presentation at the workshop.
+* Thanks to our sponsor, a $300 Best Presentation Award, along with a certificate, will be given to a standout presentation at the workshop. <!-- The award will be titled "ICRA 2026 Workshop on Long-Term Autonomy in the Wild: Best Presentation Award." -->
+* Details on the submission portal will be announced on the workshop website.
 
 ## Important dates
 
@@ -136,12 +139,13 @@ Czech Technical University in Prague, Czech Republic
 [Tomas Krajnik](https://chronorobotics.fel.cvut.cz/)\
 Czech Technical University in Prague, Czech Republic
 
+## Sponsors
+
+<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="38"></a>
+
 ## Contact
 
 If you have any questions, please contact us at [lowi@gmail.com](mailto:lowi@gmail.com).
-
-## Sponsors
-
 
 ---
 
