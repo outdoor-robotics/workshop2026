@@ -141,7 +141,7 @@ Czech Technical University in Prague, Czech Republic
 
 ## Sponsors
 
-<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="38"></a>
+<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="64"></a>
 
 ## Contact
 
