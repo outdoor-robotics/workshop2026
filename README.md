@@ -6,7 +6,7 @@ This workshop will feature presentations, papers, and interactive discussion by 
 
 ## Venue
 
-Somewhere in Vienna.
+VIECON (formerly Messe Wien), Vienna, Austria.
 
 ## Call for papers
 
@@ -139,6 +139,9 @@ Czech Technical University in Prague, Czech Republic
 ## Contact
 
 If you have any questions, please contact us at [lowi@gmail.com](mailto:lowi@gmail.com).
+
+## Sponsors
+
 
 ---
 
